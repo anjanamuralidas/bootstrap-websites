@@ -1,0 +1,135 @@
+        #d1 {
+            background-image: url(/html/wilde/first.jpg);
+            background-size: cover;
+        }
+        
+        #img1 {
+            height: 75px;
+            width: 75px;
+        }
+        
+        #dd {
+            color: white;
+            padding-top: 30px;
+        }
+        
+        #dd:hover {
+            color: yellow;
+        }
+        
+        #b1 {
+            background: transparent;
+            color: white;
+            border-radius: 3px;
+            border-color: orangered;
+            margin-top: 25px;
+        }
+        
+        #hh {
+            color: orangered;
+            padding-left: 30px;
+            padding-top: 150px;
+        }
+        
+        #pp {
+            color: white;
+            font-family: 'Times New Roman', Times, serif;
+            padding-left: 30px;
+            font-size: 20px;
+        }
+        
+        #b2 {
+            background-color: orangered;
+            color: white;
+            border-radius: 10px;
+            margin-left: 30px;
+            margin-bottom: 100px;
+        }
+        
+        #d2 {
+            background-color: rgb(109, 102, 109);
+            margin-top: 40px;
+        }
+        
+        #hhh {
+            text-align: center;
+            padding-top: 50px;
+        }
+        
+        #h44 {
+            text-align: center;
+        }
+        
+        #d24 {
+            display: inline-flex;
+            list-style-type: none;
+            color: white;
+            padding-top: 50px;
+        }
+        
+        #d24:hover {
+            color: yellow;
+        }
+        
+        #d23 {
+            color: white;
+            padding-top: 40px;
+            font-size: 12px;
+            padding-top: 50px;
+        }
+        
+        #d23:hover {
+            color: yellow;
+        }
+        
+        #img3 {
+            padding-top: 0px;
+            height: 100px;
+            width: 100px;
+        }
+        
+        #am {
+            text-align: center;
+            color: black;
+            padding-top: 150px;
+        }
+        
+        #s1 {
+            height: 400px;
+            width: 175px;
+            padding-bottom: 20px;
+        }
+        
+        #s2 {
+            height: 400px;
+            width: 175px;
+            padding-bottom: 20px;
+        }
+        
+        #s3 {
+            height: 400px;
+            width: 175px;
+            padding-bottom: 20px;
+        }
+        
+        #in1 {
+            margin-left: 420px;
+            margin-top: 40px;
+            text-align: left;
+            margin-bottom: 60px;
+            border: 2px solid black;
+        }
+        
+        #bt {
+            background-color: orangered;
+            color: black;
+        }
+        
+        #head {
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+        
+        #para {
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: small;
+        }

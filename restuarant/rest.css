@@ -1,0 +1,182 @@
+#d1 {
+    height: 700px;
+    width: 1350px;
+    background-color: black;
+    background-image: url(u.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    height: 500px;
+    width: 1200px;
+    margin-left: 100px;
+}
+
+h4 {
+    margin-left: 80px;
+    color: yellow;
+    font-size: 25px;
+}
+
+#ul1 li {
+    list-style-type: square;
+    color: yellow;
+    margin-left: 80px;
+    font-size: 17px;
+}
+
+#ul2 {
+    list-style-type: none;
+    float: right;
+    display: inline-flex;
+}
+
+#d3 {
+    height: 30px;
+    width: 300px;
+    margin-left: 900px;
+    margin-top: -290px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(175, 207, 31);
+    text-align: 3px;
+    margin-left: 20px;
+}
+
+a:hover {
+    color: brown;
+}
+
+#img2 {
+    height: 150px;
+    width: 150px;
+    margin-top: 2px;
+}
+
+th {
+    word-spacing: 10cm;
+}
+
+#d4 {
+    height: 290px;
+    width: 250px;
+    background-color: rgb(201, 146, 75);
+    border: 2px solid red;
+    margin-left: 100px;
+    margin-top: 60px;
+    text-align: center;
+}
+
+#u1 {
+    color: black;
+}
+
+button {
+    background-color: rgb(51, 51, 145);
+}
+
+#d5 {
+    height: 400px;
+    width: 1400px;
+    background-color: white;
+    margin-left: -1002px;
+    margin-top: 270px;
+}
+
+#d6 {
+    height: 280px;
+    width: 400px;
+    background-color: rgb(180, 17, 17);
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+#im4 {
+    height: 150px;
+    width: 150px;
+    background-image: url(/html/restuarant/d\(3\).jpg);
+    margin-left: -250px;
+}
+
+#dd1 {
+    color: black;
+    margin-left: -226px;
+    margin-top: 5px;
+    font-size: 17px;
+}
+
+#p1 {
+    margin-left: -6px;
+    margin-top: -15px;
+}
+
+#d7 {
+    height: 280px;
+    width: 400px;
+    background-color: rgb(199, 147, 5);
+    margin-top: -253px;
+    margin-left: 430px;
+}
+
+#im5 {
+    height: 150px;
+    width: 150px;
+    background-image: url(/html/restuarant/music.jpg);
+    margin-left: -250px;
+}
+
+#dd2 {
+    color: black;
+    text-align: left;
+    margin-left: 1px;
+    margin-top: 4px;
+    font-size: 17px;
+}
+
+#p2 {
+    text-align: left;
+    margin-top: -15px;
+}
+
+#d8 {
+    height: 280px;
+    width: 400px;
+    background-color: rgb(212, 14, 90);
+    margin-left: 440px;
+    margin-top: -290px;
+}
+
+#im6 {
+    height: 150px;
+    width: 150px;
+    background-image: url(/html/restuarant/book.jpg);
+    margin-left: -250px;
+}
+
+#dd3 {
+    text-align: left;
+    color: black;
+    margin-left: 0px;
+    margin-top: 5px;
+    font-size: 17px;
+}
+
+#p3 {
+    text-align: left;
+    margin-top: -15px;
+}
+
+#d9 {
+    height: 20px;
+    width: 1400px;
+    background-color: rgb(228, 245, 245);
+    margin-left: -950px;
+    margin-top: 200px;
+}
+
+footer {
+    color: brown;
+}

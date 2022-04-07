@@ -1,0 +1,125 @@
+#d1 {
+    height: 50px;
+    width: 1400px;
+    background-color: black;
+}
+
+#img1 {
+    height: 50px;
+    width: 70px;
+    background-color: black;
+    padding-left: 0px;
+}
+
+#d12 {
+    color: white;
+    padding-top: 5px;
+    list-style-type: none;
+    float: right;
+    display: inline-flex;
+}
+
+#d12:hover {
+    color: yellow;
+}
+
+#im2 {
+    height: 500px;
+    width: 150px;
+}
+
+#d2 {
+    height: 550px;
+    width: 1400px;
+    background-color: black;
+}
+
+#b1 {
+    opacity: 0.6;
+}
+
+#d4 {
+    height: 300px;
+    width: 1400px;
+    background-color: black
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    padding-top: 70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    text-align: center;
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#b2 {
+    margin-left: 480px;
+}
+
+#d6 {
+    background-color: black;
+}
+
+.card {
+    height: 300px;
+    width: 250px;
+}
+
+img {
+    height: 250px;
+    width: 200px;
+}
+
+.card-title {
+    font-size: 15px;
+    text-align: center;
+}
+
+.card-deck {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+}
+
+#form1 {
+    background-color: black;
+}
+
+#formh {
+    padding-left: 450px;
+}
+
+#formgroup {
+    padding-left: 60px;
+}
+
+#address {
+    padding-left: 60px;
+    padding-top: 40px;
+    color: white;
+}
+
+#form1 {
+    background-image: url(/html/photo/conor-luddy-IVaKksEZmZA-unsplash.jpg);
+    background-size: cover;
+}
+
+#df {
+    background-color: black;
+    height: 50px;
+}
+
+#ff {
+    background-color: rgb(77, 73, 73);
+}
+
+footer {
+    padding-left: 400px;
+    color: white;
+}

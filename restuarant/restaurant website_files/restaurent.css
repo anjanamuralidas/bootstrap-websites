@@ -1,0 +1,225 @@
+#d1 {
+    height: 750px;
+    width: 1300px;
+    background-color: blueviolet;
+    margin-left: 20px;
+    background-image: url(/html/restuarant/brooke-lark-4J059aGa5s4-unsplash.jpg);
+    background-size: cover;
+}
+
+#im1 {
+    height: 150px;
+    width: 200px;
+    margin-left: 10px;
+}
+
+#d2 {
+    height: 300px;
+    width: 500px;
+    margin-left: 40px;
+}
+
+#h22 {
+    color: rgb(6, 25, 43);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: left;
+    size: 1px;
+    margin-left: 60px;
+}
+
+#p1 {
+    color: black;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    margin-left: 30px;
+    size: 1px;
+}
+
+#a1 {
+    color: rgb(5, 5, 54);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 50px;
+}
+
+#a1:hover {
+    color: rgb(110, 21, 21);
+}
+
+#d3 {
+    width: 1300px;
+    height: 700px;
+    background-color: white;
+    margin-left: -40px;
+    margin-top: 320px;
+    border-top: 2px solid black;
+}
+
+#d4 {
+    height: 110px;
+    width: 780px;
+    background-color: green;
+}
+
+#im2 {
+    height: 450px;
+    width: 200;
+    margin-left: 90px;
+}
+
+#h11 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: -430px;
+    margin-left: 300px;
+    font-size: 40px;
+}
+
+#d5 {
+    background-color: rgb(242, 242, 247);
+    height: 450px;
+    width: 400px;
+    margin-left: 400px;
+    margin-top: 50px;
+    border-bottom-left-radius: 90px;
+}
+
+#p2 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: right;
+}
+
+#d6 {
+    background-color: red;
+    height: 300px;
+    width: 400px;
+    margin-left: 500px;
+    margin-top: -310px;
+}
+
+#d7 {
+    background-color: orangered;
+    height: 480px;
+    width: 200px;
+    margin-left: 150px;
+    margin-top: -90px;
+}
+
+#im3 {
+    height: 480px;
+    width: 350px;
+    margin-left: -230px;
+    margin-top: 0px;
+}
+
+#d8 {
+    height: 750px;
+    width: 1300px;
+    background-color: rgb(207, 23, 84);
+    margin-left: -1050px;
+    margin-top: 5px;
+    background-image: url(/html/restuarant/7132-silver_valser-wachtelei-trueffel.jpg);
+    background-size: cover;
+}
+
+#d9 {
+    height: 200px;
+    width: 650px;
+    margin-left: 320px;
+}
+
+#h12 {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(228, 140, 7);
+}
+
+#p3 {
+    font: 30px;
+    color: white;
+    text-align: center;
+}
+
+#d10 {
+    background-color: white;
+    height: 450px;
+    width: 350px;
+    margin-left: -300px;
+    margin-top: 100px;
+    opacity: 0.5;
+}
+
+#h13 {
+    font-size: 55px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#h23 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+}
+
+#p4 {
+    text-align: center;
+}
+
+#d11 {
+    background-color: rgb(218, 218, 12);
+    height: 450px;
+    width: 350px;
+    margin-left: 450px;
+    margin-top: -315px;
+}
+
+#h14 {
+    color: rgb(10, 2, 43);
+    font-size: 55px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#h24 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    color: rgb(10, 2, 43);
+}
+
+#p5 {
+    text-align: center;
+    color: rgb(10, 2, 43);
+}
+
+#d12 {
+    background-color: rgb(194, 30, 8);
+    height: 450px;
+    width: 350px;
+    margin-left: 450px;
+    margin-top: -333px;
+}
+
+#h15 {
+    font-size: 55px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+}
+
+#h25 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    color: white;
+}
+
+#p6 {
+    text-align: center;
+    color: white;
+}
